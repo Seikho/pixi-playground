@@ -1,5 +1,9 @@
 // Type definitions for PIXI with Phaser Deviations. 
 
+declare module "pixi.js" {
+    export = PIXI;
+}
+
 declare module PIXI {
 
     export var game: Phaser.Game;
