@@ -16,6 +16,7 @@
     "webpack": "^1.12.14"
   },
   "dependencies": {
+    "phaser": "^2.4.6",
     "pixi.js": "^3.0.10"
   }
 }
