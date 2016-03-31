@@ -3,3 +3,9 @@ node_modules/
 *.map
 *.log
 *.sqlite
+*.png
+*.gif
+*.db
+*.jpg
+*.zip
+*.txt
